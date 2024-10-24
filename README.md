@@ -5,7 +5,7 @@
     local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/StarXRX/Blyat/main/Universe.lua')))()
     
     --Config do Script
-    local Window = OrionLib:MakeWindow({Name = "Dogger menu", HidePremium = false, IntroEnabled = false SaveConfig = false})
+    local Window = OrionLib:MakeWindow({Name = "Dogger menu", HidePremium = false, IntroEnabled = false, SaveConfig = false})
     local Player = game.Players.LocalPlayer
 
     --Valores _G. Para desativar ou desativar ou parte da key/texto
